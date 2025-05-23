@@ -14,7 +14,7 @@ Ele serve como ponto de partida para entender o fluxo de criação de receitas n
 
 > Um exemplo simples de aplicação "Hello World" para Yocto, demonstrando como criar uma receita BitBake mínima.
 
-## Visão Geral
+## Visão Geral 
 Este projeto apresenta um aplicativo em C que imprime "Olá, Yocto!" no console.
 Ele serve como ponto de partida para entender o fluxo de criação de receitas no Yocto Project.
 
